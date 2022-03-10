@@ -1,4 +1,3 @@
-# Column-selection
+# DDA MS/MS Optimization Classic MN Data Analysis
 
-Here, I have tried to subset certain columns from clustersummary files (obtained by bucket table via GNPS) and did some simple analyses on them. 
-Then stored them as new files onto a Result folder
+This Notebook greates a subste of defined columns from the clustersummary files (from GNPS Classic MN output). Follwing the extraction of the data into a .csv file, additional datavizulaization and summary statistics can be generated (in progress).  
